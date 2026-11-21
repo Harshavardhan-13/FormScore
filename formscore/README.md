@@ -5,9 +5,9 @@ Real-time exercise form scoring using BlazePose + BiLSTM + SHAP explanations.
 Supports: squat · push-up · shoulder press
 
 ---
-Step 1: git clone git@github.com:DarakhTech/formscore.git
+Step 1: git clone https://github.com/Harshavardhan-13/FormScore.git
 
-Step 2: cd formscore
+Step 2: cd FormScore/formscore
 
 Step 3: docker compose up --build
 ```bash
